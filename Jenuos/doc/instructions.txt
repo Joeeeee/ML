@@ -1,0 +1,4 @@
+Python version: 3.6
+Machine Learning Library: Tensorflow
+Version Control: Git
+IDE: Pycharm
